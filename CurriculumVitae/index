@@ -2,8 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width"
-    <meta name="author" content=“Mariela Eckl”>
     <meta name="description" content="Curriculum Vitae de Mariela Eckl">
     <title> Prueba final de HTML - NextU </title>
   </head>
@@ -12,7 +10,7 @@
       Este es el primer HTML de: Mariela
    </p>
    <footer>
-   <p> Derechos Reservados </P>
+   <p> Derechos Reservados </p>
    </footer>
    </body>
 </html>
